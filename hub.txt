@@ -1,0 +1,5 @@
+hub UCSCHub
+shortLabel UCSC Hub
+longLabel UCSC Genome Informatics Hub for human HepG2 DNase and Histone data
+genomesFile genomes.txt
+email enid@my.swjtu.edu.cn
