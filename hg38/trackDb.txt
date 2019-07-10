@@ -1,1 +1,6 @@
+track H3K4me1Signal
+bigDataUrl H3K4me1Signal.bigWig
+shortLabel H3K4me1 Signal
+longLabel Depth of alignments of H3K4me1 reads
+type bigWig
 
